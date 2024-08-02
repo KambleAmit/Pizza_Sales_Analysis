@@ -37,12 +37,31 @@ A pizza sales store manager can utilize this SQL project to extract valuable ins
 - Operational Efficiency: Date and time data from the orders table allow managers to assess peak hours and staff the store appropriately, ensuring operational efficiency and customer satisfaction.
 - Marketing Insights: Data analysis can also support targeted marketing campaigns, like promotions on specific types of pizzas that are popular or on days when sales are typically lower.
 
-## Tools:
-MySQL workbench
 
+# Queries
+Basic:
+- Retrieve the total number of orders placed.
+- Calculate the total revenue generated from pizza sales.
+- Identify the highest-priced pizza.
+- Identify the most common pizza size ordered.
+- List the top 5 most ordered pizza types along with their quantities.
+
+Intermediate:
+- Find the total quantity of each pizza category ordered (this will help us to understand the category which customers prefer the most).
+- Determine the distribution of orders by hour of the day (at which time the orders are maximum (for inventory management and resource allocation).
+- Find the category-wise distribution of pizzas (to understand customer behaviour).
+- Group the orders by date and calculate the average number of pizzas ordered per day.
+- Determine the top 3 most ordered pizza types based on revenue (let's see the revenue wise pizza orders to understand from sales perspective which pizza is the best selling)
+
+Advanced:
+- Calculate the percentage contribution of each pizza type to total revenue (to understand % of contribution of each pizza in the total revenue)
+- Analyze the cumulative revenue generated over time.
+- Determine the top 3 most ordered pizza types based on revenue for each pizza category (In each category which pizza is the most selling)
+
+## Tools:
+MySQL
 
 ## Conclusion:
 
-This SQL project not only serves as a robust data management system but also as a strategic tool for business intelligence. By maintaining comprehensive data on every aspect of the store's operations, the database allows store managers to make precise adjustments to improve both customer experience and profitability. When presented on a blog, this project can provide practical insights into how structured SQL queries can be used to harness data for real business applications.
-
+This SQL project not only serves as a robust data management system but also as a strategic tool for business intelligence. By maintaining comprehensive data on every aspect of the store's operations, the database allows store managers to make precise adjustments to improve both customer experience and profitability.
    
