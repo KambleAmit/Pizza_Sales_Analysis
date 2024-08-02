@@ -1,5 +1,11 @@
 # Pizza_Sales_Analysis
 
+## Table of contents:
+   - [Project Overview](#project-overview)
+   - [Use Case](#use-case)
+   - [Queries](#queries)
+   - [Tools](#tools)
+   - [Conclusion](#conclusion)
 ## Project Overview:
 
 This SQL project revolves around a database schema designed to manage and analyze data for a pizza store.The database consists of four primary tables: order_details, pizzas, orders, and pizza_types.
